@@ -1,0 +1,4 @@
+# Source data for tools/build_ratings.py (large, downloaded separately)
+*.csv
+__pycache__/
+.DS_Store
